@@ -22,3 +22,6 @@ curl:
 mosh:
   pkg:
    - installed
+tmux:
+  pkg:
+   - installed
